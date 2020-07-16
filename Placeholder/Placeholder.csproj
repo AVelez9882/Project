@@ -71,9 +71,10 @@
     <Content Include="CSS\bootstrap.min.css" />
     <Content Include="favicon.ico" />
     <Content Include="img\laptop.gif" />
-    <Content Include="Placeholder.html" />
+    <Content Include="Index.html" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
